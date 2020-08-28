@@ -13,7 +13,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a Computer Science Enginner and passionate Developer!
+I am a Computer Science Engineer and passionate Developer!
 
 - 🔭 I’m currently working on my project "Online Hotel Booking"
 - 🌱 I’m currently learning React JS
