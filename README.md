@@ -1,6 +1,6 @@
 ### Hi there, I'm [Kunal Gaurav][website] 👋
 
-[![Website](https://img.shields.io/website?label=kunalGaurav.netlify.app&style=for-the-badge&url=https%3A%2F%2Fkunalgaurav.netlify.app)](https://kunalgaurav.netlify.com)
+[![Website](https://img.shields.io/website?label=kunalGaurav.netlify.app&style=for-the-badge&url=https%3A%2F%2Fkunalgaurav.netlify.app)](https://kunalgaurav.me)
 [![Twitter Follow](https://img.shields.io/twitter/follow/i_kunalgaurav?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2Fi_kunalgaurav&screen_name=i_kunalgaurav)
 
 ## Connect with me:
@@ -46,6 +46,6 @@ I am a Computer Science Enginner and passionate Developer!
 </p>
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
 
-[website]: https://kunalgaurav.netlify.app
+[website]: https://kunalgaurav.me
 [twitter]: https://twitter.com/i_kunalgaurav
 [linkedin]: https://linkedin.com/in/kunalgaurav4
