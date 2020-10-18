@@ -8,6 +8,8 @@
 [<img align="left" alt="kunalgaurav4.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="kunalgaurav4 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="kunalgaurav4 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="kunalgaurav4 | Dev" width="22px" src="https://d2fltix0v2e0sb.cloudfront.net/dev-badge.svg" />][dev.to]
+    
 
 <br />
 
@@ -50,3 +52,4 @@ I am a Computer Science Engineer and passionate Developer!
 [website]: https://kunalgaurav.me
 [twitter]: https://twitter.com/i_kunalgaurav
 [linkedin]: https://linkedin.com/in/kunalgaurav4
+[dev.to]: https://dev.to/kunalgaurav4
