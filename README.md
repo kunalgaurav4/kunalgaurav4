@@ -46,7 +46,8 @@ I am a Computer Science Engineer and passionate Developer!
 <p align="center">
    <summary></summary>
    <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalgaurav4&show_icons=true&theme=radical&show_icons=true&hide_border=true&hide_langs_below=1&layout=compact" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunalgaurav4&show_icons=true&hide_border=true&line_height=21" alt="kunalgaurav's github stats"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kunalgaurav4&show_icons=true&hide_border=true&hide_langs_below=1&layout=compact&theme=radical"/>
+ 
  
 </p>
 *PS: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
